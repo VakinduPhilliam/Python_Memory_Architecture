@@ -13,4 +13,7 @@ It provides the following information:
 To trace most memory blocks allocated by Python, the module should be started as early as possible by setting the PYTHONTRACEMALLOC environment variable to 1, or by using -X tracemalloc command line option.  
 
 The tracemalloc.start() function can be called at runtime to start tracing Python memory allocations. 
+
+New CPython memory scripts.
+
 Compiled and presented by Vakindu Philliam.
